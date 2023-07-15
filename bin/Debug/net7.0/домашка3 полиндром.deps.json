@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "домашка3 полиндром/1.0.0": {
+        "runtime": {
+          "домашка3 полиндром.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "домашка3 полиндром/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

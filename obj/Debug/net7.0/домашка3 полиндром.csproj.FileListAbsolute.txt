@@ -1,0 +1,15 @@
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/bin/Debug/net7.0/домашка3 полиндром
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/bin/Debug/net7.0/домашка3 полиндром.deps.json
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/bin/Debug/net7.0/домашка3 полиндром.runtimeconfig.json
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/bin/Debug/net7.0/домашка3 полиндром.dll
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/bin/Debug/net7.0/домашка3 полиндром.pdb
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.csproj.AssemblyReference.cache
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.AssemblyInfoInputs.cache
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.AssemblyInfo.cs
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.csproj.CoreCompileInputs.cache
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.dll
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/refint/домашка3 полиндром.dll
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.pdb
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/домашка3 полиндром.genruntimeconfig.cache
+/Users/darinafesenko/Documents/Code/домашка3 полиндром/obj/Debug/net7.0/ref/домашка3 полиндром.dll
